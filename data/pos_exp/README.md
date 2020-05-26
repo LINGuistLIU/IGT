@@ -1,0 +1,1 @@
+The data for this part of experiment is from [SIGMORPHON 2018 shared task 1](https://github.com/sigmorphon/conll2018/tree/master/task1) on type-level inflection.
