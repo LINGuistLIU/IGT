@@ -1,0 +1,1 @@
+Each ```*.hall``` file contains 10,000 fake data created by data halluciation [(Anastasopoulos and Neubig, 2019)](https://www.aclweb.org/anthology/D19-1091.pdf).
